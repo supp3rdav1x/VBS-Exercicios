@@ -1,0 +1,1 @@
+Olá! Estes são meus exercícios de Banco de Dados usando VBScript.
